@@ -1,1 +1,2 @@
 Its a new text document.
+This is commited to be a text sample.
